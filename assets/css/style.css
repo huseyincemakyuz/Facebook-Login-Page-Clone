@@ -19,12 +19,16 @@ a, li {
     text-decoration: none;
 }
 
+.title_p {
+    margin-top: -13px;
+}
+
 form {
     background-color: #fff;
 }
 
 .form-control {
-    padding: 14px 16px;
+    padding: 11px 16px;
     font-size: 17px;
     border-radius: 6px;
     border: 1px solid #dddfe2
