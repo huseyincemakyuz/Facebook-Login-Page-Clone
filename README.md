@@ -5,6 +5,6 @@ Used in this project;
 * CSS3
 * Bootstrap
 
-![ss-1](assets/img/screenshots/screenshot-1.png)
-![ss-2](assets/img/screenshots/screenshot-2.png)
+![ss-1](assets/img/screenshots/Screenshot-1.png)
+![ss-2](assets/img/screenshots/Screenshot-2.png)
 
