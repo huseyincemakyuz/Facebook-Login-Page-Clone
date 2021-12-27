@@ -6,5 +6,5 @@ Used in this project;
 * Bootstrap
 
 ![ss-1](assets/img/screenshots/screenshot-1.png)
-![ss-1](assets/img/screenshots/screenshot-2.png)
+![ss-2](assets/img/screenshots/screenshot-2.png)
 
